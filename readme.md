@@ -1,4 +1,4 @@
-# Trilha JS Developer - Pokedex :cat
+# Trilha JS Developer - Pokedex :cat:
 
 ## Pokedesk do zero pela [DIO] (<https://web.dio.me/>)
 
